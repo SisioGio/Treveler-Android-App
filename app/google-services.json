@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624363444350",
+    "firebase_url": "https://traveler-68b36-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "traveler-68b36",
+    "storage_bucket": "traveler-68b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624363444350:android:8901a069e0d935125a202f",
+        "android_client_info": {
+          "package_name": "com.example.travelerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624363444350-3dhmnfb8io0vulqpnoiorap3rfvgv3o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1LqmlRPP8ToW8T4GpzZE_e5gp0MCkJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624363444350-3dhmnfb8io0vulqpnoiorap3rfvgv3o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
